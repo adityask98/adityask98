@@ -1,4 +1,9 @@
-### Hi there 👋
+- ⌨️ I do React, React Native, Laravel and (sometimes) Swift.
+- 🏢 Software Engineer at [Impl Co.](https://www.impl.co.jp/)
+- 🌎 Live in [Sapporo, Japan](https://maps.app.goo.gl/BNpeh5vDHWsm6bFB6) - from [Bangalore, India](https://maps.app.goo.gl/dov1ySrfS7nGXvYe9)
+- 🌱 I’m currently learning iOS/SwiftUI.
+- 😄 I'm most excited about: Mobile/App Development.
+- 💼 [LinkedIn: adityask98](https://www.linkedin.com/in/adityask98/)
 
 <!--
 **adityask98/adityask98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
