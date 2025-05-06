@@ -1,4 +1,4 @@
-- ⌨️ I do React, React Native, Laravel and Swift.
+- ⌨️ I do React, React Native, Laravel, Flutter and Swift.
 - 🌎 Live in [Sapporo, Japan](https://maps.app.goo.gl/BNpeh5vDHWsm6bFB6) - from [Bangalore, India](https://maps.app.goo.gl/dov1ySrfS7nGXvYe9)
 - 🔨 Currently working on [Hotaru](https://github.com/adityask98/Hotaru), SwiftUI App for Firefly III.
 - 😄 I'm most excited about: Mobile/App Development.
